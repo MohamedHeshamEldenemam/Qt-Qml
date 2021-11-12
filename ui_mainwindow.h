@@ -72,7 +72,7 @@ public:
 "     background-color: green;     \n"
 " }\n"
 " QPushButton:hover:!pressed {\n"
-"     background-color: yellow;\n"
+"     background-color: red;\n"
 " }"));
 
         m_PlayBtn->m_label->setObjectName(QString::fromUtf8("label"));
